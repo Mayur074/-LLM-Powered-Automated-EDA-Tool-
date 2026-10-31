@@ -36,8 +36,8 @@ An AI-augmented Exploratory Data Analysis tool that accepts any CSV dataset and 
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/yourgithub/llm-eda-tool.git
-cd llm-eda-tool
+git clone https://github.com/Mayur074/-LLM-Powered-Automated-EDA-Tool-.git
+cd ./-LLM-Powered-Automated-EDA-Tool-
 pip install -r requirements.txt
 streamlit run app.py
 ```
